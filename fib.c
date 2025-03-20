@@ -8,6 +8,7 @@ int fib(int num1){
     else if ((num1 == 1) || (num1 == 2)) {
         return 1;
     }
+    
     else {
         return (fib(num1-1) + fib(num1-2));
     }
