@@ -1,0 +1,444 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Domenic/Desktop/Quartus_Stuff/CodeGenerated/DE10_LITE/CEL_PROJECT/simulation/modelsim
+T_opt
+!s110 1743536273
+VknZF;FRg>6X52SDzf>N1E1
+04 14 4 work my_computer_tb fast 0
+=1-e08f4c6e062c-67ec4090-13c-8e08
+!s124 OEM10U18 
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L fiftyfivenm_ver -L rtl_work -L work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.2;73
+vadder
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1743536269
+!i10b 1
+!s100 zg>lfNC02leiJ9]AGk^=Z3
+IK=BbBj97WhKI`4CoDTg_a1
+S1
+R0
+Z4 w1743533748
+Z5 8C:/Users/Domenic/Desktop/Quartus_Stuff/CodeGenerated/DE10_LITE/CEL_PROJECT/riscvsingle.sv
+Z6 FC:/Users/Domenic/Desktop/Quartus_Stuff/CodeGenerated/DE10_LITE/CEL_PROJECT/riscvsingle.sv
+!i122 1
+L0 398 5
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2021.2;73
+r1
+!s85 0
+31
+Z9 !s108 1743536269.000000
+Z10 !s107 C:/Users/Domenic/Desktop/Quartus_Stuff/CodeGenerated/DE10_LITE/CEL_PROJECT/riscvsingle.sv|
+Z11 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Domenic/Desktop/Quartus_Stuff/CodeGenerated/DE10_LITE/CEL_PROJECT|C:/Users/Domenic/Desktop/Quartus_Stuff/CodeGenerated/DE10_LITE/CEL_PROJECT/riscvsingle.sv|
+!i113 0
+Z12 o-sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z13 !s92 -sv -work work +incdir+C:/Users/Domenic/Desktop/Quartus_Stuff/CodeGenerated/DE10_LITE/CEL_PROJECT -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+valu
+R2
+R3
+!i10b 1
+!s100 BE7jdBM09IYR@Q^@GRQJa0
+IzgD>]i13N7zo`>e<SCm3H3
+S1
+R0
+R4
+R5
+R6
+!i122 1
+L0 438 34
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R1
+valudec
+R2
+R3
+!i10b 1
+!s100 =F`f>9blK[CISVhle6JTD3
+I_fdkld=S1:0LcT1NQOFnd0
+S1
+R0
+R4
+R5
+R6
+!i122 1
+L0 325 37
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R1
+vCEL_PROJECT
+R3
+!i10b 1
+!s100 K2?6lSIR]3SE@k_zHl=QX0
+I_NNjzj:D:3kKk3W6bPi0V2
+R0
+w1742238900
+8C:/Users/Domenic/Desktop/Quartus_Stuff/CodeGenerated/DE10_LITE/CEL_PROJECT/CEL_PROJECT.v
+FC:/Users/Domenic/Desktop/Quartus_Stuff/CodeGenerated/DE10_LITE/CEL_PROJECT/CEL_PROJECT.v
+!i122 0
+L0 1 38
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Domenic/Desktop/Quartus_Stuff/CodeGenerated/DE10_LITE/CEL_PROJECT/CEL_PROJECT.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Domenic/Desktop/Quartus_Stuff/CodeGenerated/DE10_LITE/CEL_PROJECT|C:/Users/Domenic/Desktop/Quartus_Stuff/CodeGenerated/DE10_LITE/CEL_PROJECT/CEL_PROJECT.v|
+!i113 0
+Z14 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z15 !s92 -vlog01compat -work work +incdir+C:/Users/Domenic/Desktop/Quartus_Stuff/CodeGenerated/DE10_LITE/CEL_PROJECT -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@c@e@l_@p@r@o@j@e@c@t
+vcontroller
+R2
+R3
+!i10b 1
+!s100 ^F5zJ3E=V1=SXZ]861=FP1
+IbZ9k@AGVKUDIP8iTbiORB0
+S1
+R0
+R4
+R5
+R6
+!i122 1
+L0 272 26
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R1
+vdatapath
+R2
+R3
+!i10b 1
+!s100 1`mzAXJ1P7L5mhb_J9`iZ2
+I=RN`no>X?CeEjaU@dY=`g3
+S1
+R0
+R4
+R5
+R6
+!i122 1
+L0 363 33
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R1
+vdmem
+R2
+R3
+!i10b 1
+!s100 bRG8>dZo9m9K6fNNP]YD01
+I4J8DX@TcgHRK2PV:IJa4M3
+S1
+R0
+R4
+R5
+R6
+!i122 1
+L0 168 67
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R1
+vextend
+R2
+R3
+!i10b 1
+!s100 >=^NVEoI@z7i?UKfe=I2>1
+IN@jPWW_jdUD<?`[CeNXOA0
+S1
+R0
+R4
+R5
+R6
+!i122 1
+L0 404 17
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R1
+vflopr
+R2
+R3
+!i10b 1
+!s100 gX?[HBEg=Gh9T8GL:lm1a1
+Igc^n?T]E>FhKH8F_F:k_j3
+S1
+R0
+R4
+R5
+R6
+!i122 1
+L0 236 9
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R1
+vimem
+R2
+R3
+!i10b 1
+!s100 <L?H91Sd35WinmSg4XHbl1
+IJJG0Wh;@T[W5CZ6_fd;EK2
+S1
+R0
+R4
+R5
+R6
+!i122 1
+L0 153 13
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R1
+vmaindec
+R2
+R3
+!i10b 1
+!s100 aYQPSj;9jI3JX3QjaO0CD1
+I1]Eo>kaG;[K_]Jn3<gdHz2
+S1
+R0
+R4
+R5
+R6
+!i122 1
+L0 299 25
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R1
+vmux2
+R2
+R3
+!i10b 1
+!s100 NWSF:]Zj=Q29J9SZ[o9iN0
+IZAbXP:6ZhIoOJ@X6j9dUm3
+S1
+R0
+R4
+R5
+R6
+!i122 1
+L0 422 7
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R1
+vmux3
+R2
+R3
+!i10b 1
+!s100 7<c[b<[b5g;YmYUGDlR372
+I[`jDFG`VcRl5S?iH`Z:`c2
+S1
+R0
+R4
+R5
+R6
+!i122 1
+L0 430 7
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R1
+vmy_computer
+R2
+R3
+!i10b 1
+!s100 :_`<;a23<9KKz[QG=8=Rh0
+IZia4Mi59kM;]c?=^?]2g<3
+S1
+R0
+R4
+R5
+R6
+!i122 1
+L0 107 21
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R1
+vmy_computer_tb
+!s110 1743536270
+!i10b 1
+!s100 _ZnF?Xf7?i1fWO=EANjlb0
+In]f_8ik1M@^ADFz6a`hNf1
+R0
+w1743450023
+8C:/Users/Domenic/Desktop/Quartus_Stuff/CodeGenerated/DE10_LITE/CEL_PROJECT/my_computer_tb.v
+FC:/Users/Domenic/Desktop/Quartus_Stuff/CodeGenerated/DE10_LITE/CEL_PROJECT/my_computer_tb.v
+!i122 2
+L0 3 21
+R7
+R8
+r1
+!s85 0
+31
+!s108 1743536270.000000
+!s107 C:/Users/Domenic/Desktop/Quartus_Stuff/CodeGenerated/DE10_LITE/CEL_PROJECT/my_computer_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Domenic/Desktop/Quartus_Stuff/CodeGenerated/DE10_LITE/CEL_PROJECT|C:/Users/Domenic/Desktop/Quartus_Stuff/CodeGenerated/DE10_LITE/CEL_PROJECT/my_computer_tb.v|
+!i113 0
+R14
+R15
+R1
+vregfile
+R2
+R3
+!i10b 1
+!s100 [I4BcNF[70a6G:0X>eD[M0
+IPA2AjE37XoULgS]OTdiQJ3
+S1
+R0
+R4
+R5
+R6
+!i122 1
+L0 133 19
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R1
+vriscvsingle
+R2
+R3
+!i10b 1
+!s100 a;D2572jZ7KW0^6Ll_i;L0
+IBDXZFSWC:C3[^AH[kSYZ?2
+S1
+R0
+R4
+R5
+R6
+!i122 1
+L0 250 21
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R1
